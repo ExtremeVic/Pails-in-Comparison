@@ -1,6 +1,7 @@
-site_name: My Docs
+site_name: Pails in Comparison
 theme:
   name: material
 nav:
   - Home: index.md
   - About: about.md
+docs_dir: docs
